@@ -851,7 +851,7 @@ img {
   width: 70%;
   margin-bottom: 40px;
   padding: 84px;
-  background: url(/img/search-img.jpg) no-repeat 50% 50% / cover;
+  background: url(/gong-cha/img/search-img.jpg) no-repeat 50% 50% / cover;
   color: #ba1e33;
   border-radius: 100px;
   border: #efefef;
@@ -906,7 +906,7 @@ img {
   width: 70%;
   padding: 84px 84px 150px 84px;
   position: relative;
-  background: url(/img/store-img.jpg) no-repeat 50% 50% / cover;
+  background: url(/gong-cha/img/store-img.jpg) no-repeat 50% 50% / cover;
   color: #ba1e33;
   border-radius: 100px;
   border: #efefef;
